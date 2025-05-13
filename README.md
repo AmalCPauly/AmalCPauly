@@ -1,0 +1,26 @@
+<!--
+**AmalCPauly/AmalCPauly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+## Hi there 👋
+
+I'm Amal C Pauly, a Computer Science student from India, passionate about Data Science, Python, and all things tech.
+
+- 🌱 Currently learning: AWS, Redshift, and Cloud Data Engineering
+- 💻 Favorite language: Python
+- 🎯 Goal: Become a data scientist
+- 💬 Ask me about abstract concepts, science, or great movies
+- ⚡ Fun fact: I love diving into technical discussions and building side projects
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/amal-c-pauly-0803b0144/)
